@@ -46,8 +46,8 @@ En estos momento estamos revisando la planificación y es posible que parte del 
 cd Documents/GitHub
 `
 2. Abrir Git Bash en ese directorio.
-3. Clonar el repositorio vía SSH
+3. Clonar el repositorio
 `
-git clone git@github.com:Jaimegrp/MAD_PT_DS_Sep22_Mar23.git
+git clone https://github.com/Jaimegrp/MAD_PT_DS_Sep22_Mar23.git
 `
 4. Hacer `git pull` para actualizar.
